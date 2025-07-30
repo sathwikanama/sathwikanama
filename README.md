@@ -44,8 +44,8 @@
 
 ### 📌 Featured Projects
 
-| 🧠 Project | 💬 Description | 🔗 Link |
-|-----------|----------------|--------|
+| 🧠 Project | 💬 Description |
+|-----------|----------------|
 | **Amazon Clone** | A responsive e-commerce homepage built using HTML, CSS & JavaScript.
 | Google Clone | A simple and clean Google search UI clone.
 | LinkedIn Clone | A layout and component-based UI simulation of LinkedIn.
