@@ -46,11 +46,11 @@
 
 | 🧠 Project | 💬 Description | 🔗 Link |
 |-----------|----------------|--------|
-| **Amazon Clone** | A responsive e-commerce homepage built using HTML, CSS & JavaScript. | [View Demo](https://sathwika-amazon-clone.netlify.app/) |
-| Google Clone | A simple and clean Google search UI clone. | — |
-| LinkedIn Clone | A layout and component-based UI simulation of LinkedIn. | — |
-| Netflix & Hotstar Clone | OTT platform UI replicas built for layout and animation practice. | — |
-| Cloud Warehouse (WIP) | Scalable data warehouse using Amazon Redshift. | — |
+| **Amazon Clone** | A responsive e-commerce homepage built using HTML, CSS & JavaScript.
+| Google Clone | A simple and clean Google search UI clone.
+| LinkedIn Clone | A layout and component-based UI simulation of LinkedIn.
+| Netflix & Hotstar Clone | OTT platform UI replicas built for layout and animation practice.
+| Cloud Warehouse (WIP) | Scalable data warehouse using Amazon Redshift.
 
 ---
 
@@ -64,14 +64,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikanama&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikanama&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 ### 🤝 Let's Connect
 
