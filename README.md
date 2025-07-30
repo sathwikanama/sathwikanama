@@ -1,86 +1,93 @@
-<h1 align="center">👋 Hello, I'm Nama Sathwika</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech IT Student | Tech Enthusiast</h3>
+<h1 align="center">✨ Hey there! I'm Nama Sathwika 👋</h1>
+<h3 align="center">Future-Ready Full Stack Developer | Passionate Problem Solver | B.Tech IT Student</h3>
 
 <p align="center">
-  <a href="mailto:sathwikanama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nama-sathwika-a13442312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sathwikanama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sathwikanama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nama-sathwika-a13442312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sathwikanama"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-🌟 I'm a passionate developer who enjoys building interactive, scalable, and responsive web applications. I love exploring new technologies and working on meaningful projects that improve my skills and add real value.
+### 👩‍💻 About Me
 
-🎓 I'm currently pursuing my **B.Tech in Information Technology** at **Sreenidhi Institute of Science and Technology**, and my goal is to become a skilled full stack developer who can build production-ready software.
+🌱 I'm an ambitious and self-driven developer currently pursuing my **B.Tech in Information Technology** at **Sreenidhi Institute of Science and Technology**. I have a strong passion for **web technologies, cloud systems**, and solving real-world problems through clean, efficient code.
 
----
-
-## 🛠️ What I Do
-
-- 🌐 Build responsive, user-friendly web interfaces  
-- 🧠 Develop full stack applications using modern technologies  
-- ☁️ Work with cloud-based databases and hosting platforms  
-- 📚 Focus on strong fundamentals like DSA, OOP, and clean code  
-- 🔁 Continuously learn through hands-on projects and challenges
+💡 I believe in learning by doing. Whether it's building full stack applications, replicating real-world platforms, or working with cloud infrastructure — I'm always eager to grow, explore, and challenge myself.
 
 ---
 
-## 🔧 Tech Stack
+### 🚀 What Drives Me
 
-### 💻 Frontend
-`HTML5` `CSS3` `JavaScript` `React.js` `Bootstrap` `Tailwind CSS`
-
-### 🔙 Backend
-`Node.js` `Express.js` `phpMyAdmin`
-
-### 🗄️ Databases
-`MySQL` `MongoDB (familiar)`
-
-### 🛠️ Tools & Platforms
-`Git` `GitHub` `Netlify` `Vercel` `Amazon Redshift`
-
-### 📘 CS Fundamentals
-`Data Structures` `OOP` `Operating Systems` `Computer Networks` `Machine Learning (Basic)`
+- 🔨 Building modern, responsive, and scalable web apps  
+- 🔧 Mastering full stack development (frontend to backend)  
+- ☁️ Leveraging cloud tools for real-world data solutions  
+- 💡 Embracing every opportunity to learn, collaborate, and grow  
 
 ---
 
-## 📌 Featured Projects
+### 🧰 Tech Toolbox
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [**Amazon Clone**](https://sathwika-amazon-clone.netlify.app/) | E-commerce homepage clone using HTML, CSS & JS |
-| 🔗 Google Clone | A clean, responsive search interface clone |
-| 🔗 LinkedIn Clone | Professional networking UI simulation |
-| 🔗 Netflix & Jio Hotstar Clones | OTT layout designs using modern frontend tools |
-| ☁️ Cloud Data Warehouse (WIP) | Data warehouse using Amazon Redshift for analytics |
+#### 💻 Frontend
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Tailwind CSS` · `Bootstrap`
 
----
+#### 🔙 Backend
+`Node.js` · `Express.js` · `phpMyAdmin`
 
-## 🌱 Currently Exploring
+#### 🗃️ Databases & Tools
+`MySQL` · `MongoDB (familiar)` · `Amazon Redshift` · `Git` · `GitHub` · `Netlify` · `Vercel`
 
-- ⚙️ MERN Stack (MongoDB, Express, React, Node)  
-- ☁️ Cloud deployments and scalable systems  
-- 🚀 Open source contributions  
-- 🔐 Backend architecture and API security
+#### 🎓 CS Concepts
+`Data Structures` · `OOP` · `Operating Systems` · `Networking` · `Basic ML`
 
 ---
 
-## 📫 Let's Connect
+### 📌 Featured Projects
 
-- 🔗 [GitHub](https://github.com/sathwikanama)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nama-sathwika-a13442312/)  
-- 📧 [Email](mailto:sathwikanama@gmail.com)
+| 🧠 Project | 💬 Description | 🔗 Link |
+|-----------|----------------|--------|
+| **Amazon Clone** | A responsive e-commerce homepage built using HTML, CSS & JavaScript. | [View Demo](https://sathwika-amazon-clone.netlify.app/) |
+| Google Clone | A simple and clean Google search UI clone. | — |
+| LinkedIn Clone | A layout and component-based UI simulation of LinkedIn. | — |
+| Netflix & Hotstar Clone | OTT platform UI replicas built for layout and animation practice. | — |
+| Cloud Warehouse (WIP) | Scalable data warehouse using Amazon Redshift. | — |
 
 ---
+
+### 🌟 Currently Growing In
+
+- MERN Stack development  
+- API design and backend performance  
+- Real-time data architecture  
+- Deployment pipelines and DevOps basics  
+- Collaborative open-source contribution
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikanama&show_icons=true&theme=vue&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikanama&layout=compact&theme=vue&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikanama&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikanama&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-> ✨ _“Code is not just syntax — it's logic, creativity, and problem-solving combined.”_
+### 🤝 Let's Connect
 
-Thank you for visiting my profile! 👩‍💻
+- 💼 [LinkedIn](https://www.linkedin.com/in/nama-sathwika-a13442312/)  
+- 📧 [Email](mailto:sathwikanama@gmail.com)  
+- 💻 [GitHub](https://github.com/sathwikanama)  
+
+---
+
+### 💬 Personal Motto
+
+> _“Great developers are not born — they are built through learning, persistence, and purpose.”_
+
+📌 *I’m open to internships, technical roles, and impactful collaborations. Let’s build something meaningful together!*
+
+---
+
+<p align="center"><b>✨ Thank you for visiting my profile! ✨</b></p>
 
